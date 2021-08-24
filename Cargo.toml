@@ -1,0 +1,15 @@
+[package]
+name = "sms-receiver"
+version = "1.0.0"
+authors = ["Marek G <marek-dev@yandex.com>"]
+edition = "2018"
+description = "Library for receiving SMS messages."
+keywords = ["sms", "receive", "kdeconnect"]
+categories = ["network-programming"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/marek-g/sms-receiver"
+documentation = "https://docs.rs/sms-receiver"
+readme = "README.md"
+
+[dependencies]
+dbus = "0.9.3"

@@ -7,7 +7,7 @@ description = "Library for receiving SMS messages."
 keywords = ["sms", "receive", "kdeconnect"]
 categories = ["network-programming"]
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/marek-g/sms-receiver"
+repository = "https://github.com/marek-g/rust-sms-receiver"
 documentation = "https://docs.rs/sms-receiver"
 readme = "README.md"
 
